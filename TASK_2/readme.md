@@ -38,9 +38,9 @@ An interactive Power BI dashboard built using the Superstore dataset to explore 
 
 | File | Description |
 |------|-------------|
-| `Superstore_Dashboard.pbix` | Power BI dashboard file |
-| `dashboard_preview.png` | Screenshot of the dashboard |
-| `README.md` | Project overview |
+| `TASK2.pbix` | Power BI dashboard file |
+| `Screenshot 2025-08-06 215944.png` | Screenshot of the dashboard |
+| `readme.md` | Project overview |
 
 ---
 
